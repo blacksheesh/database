@@ -1,0 +1,10 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+.hello-text{
+    font-size: 32px;
+    text-align:center;
+    font-family:Arial, Helvetica, sans-serif;
+    margin-top: 50px;
+}
